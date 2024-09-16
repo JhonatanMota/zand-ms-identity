@@ -45,5 +45,4 @@ Before running the project, ensure you have the following installed:
 ## Usage
 Once the application is running, you can access the following endpoints:
 1. Identity verification: `http://localhost:8081/api/identity/verification` (POST)
-   2. Swagger link: `http://localhost:8081/api/swagger-ui/index.html#/`
 
